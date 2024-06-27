@@ -1,2 +1,7 @@
 pandas
 numpy
+seaborn 
+flask
+memory_profiler
+streamlit
+bs4
