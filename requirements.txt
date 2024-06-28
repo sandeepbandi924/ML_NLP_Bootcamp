@@ -1,5 +1,7 @@
+ipykernel
 pandas
 numpy
+matplotlib
 seaborn 
 flask
 memory_profiler
